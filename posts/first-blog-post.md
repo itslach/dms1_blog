@@ -1,7 +1,7 @@
 ---
 title: DMS1_FIRSTBLOGPST
 published_at: 2024-07-22
-snippet: An example of a blog post.
+snippet: Hello World
 disable_html_sanitization: true
 allow_math: true
 ---
